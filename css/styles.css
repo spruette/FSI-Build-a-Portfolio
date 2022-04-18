@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://media.istockphoto.com/vectors/abstract-dark-blue-background-vector-id1269169056?k=20&m=1269169056&s=612x612&w=0&h=IaHlIh1ocFn0mXcuxOWX8UIHzfBtwjUyRXQMc7IRYQo=);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+h1 {
+    color: #ffffff;
+    text-shadow: 3px 2px #030303;
+}
+h2 {
+    color:rgb(255, 255, 255);
+    text-shadow: 3px 2px #030303;
+}
+h3 {
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+}
+p {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    border-color:rgb(0, 0, 0);
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 15px;
+}
+ul {
+    color:rgb(255, 255, 255);
+    position: relative;
+    left: -22px;
+    list-style:none
+}
+
+hr{
+    height: 5px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+}
