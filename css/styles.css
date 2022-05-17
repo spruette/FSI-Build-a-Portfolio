@@ -38,3 +38,26 @@ hr{
     background-color: rgb(0, 0, 0);
     border: none;
 }
+
+nav {
+    background-color: grey;
+    padding: 5px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+    color: deepskyblue;
+  }
